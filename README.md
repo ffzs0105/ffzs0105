@@ -10,10 +10,7 @@
 帮你把行程单、解释信、材料清单一次准备对，逐项告诉你哪里还差、哪里可能被拒。
 → **[在线体验](https://pocketpass.co)**
 
-
-<img width="4586" height="2777" alt="8230d0d3748386e8069a4bdffbaafce4" src="https://github.com/user-attachments/assets/d054668b-d393-4897-8795-8e6e474555ee" />
-
-
+<img width="480" alt="口袋签证" src="https://github.com/user-attachments/assets/d054668b-d393-4897-8795-8e6e474555ee" />
 
 
 **Showpaw** — 帮你省下找片时间的【影视资源搜索引擎】
