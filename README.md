@@ -1,3 +1,4 @@
+
 # 你好 👋
 
 希望我做的产品能**帮你解决生活里那些琐碎的小麻烦，把省下来的时间还给你——拿去玩，拿去享受生活。**
@@ -18,5 +19,4 @@
 自动过滤掉失效的网盘链接，直接把还能用的资源筛出来给你，不用再一个个翻、一个个碰运气。
 → **[在线体验](https://showpaw.xyz)**
 
-<!-- 截图：把图放到 docs/showpaw.png，然后删掉本行注释符让下面这行生效 -->
-<!-- ![Showpaw](docs/showpaw.png) -->
+<img width="1079" height="769" alt="Screenshot 2026-07-20 at 12 26 27 AM" src="https://github.com/user-attachments/assets/a4079897-46ab-4f72-8138-e6c984c5edc7" />
