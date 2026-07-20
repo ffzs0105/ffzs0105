@@ -19,4 +19,4 @@
 自动过滤掉失效的网盘链接，直接把还能用的资源筛出来给你，不用再一个个翻、一个个碰运气。
 → **[在线体验](https://showpaw.xyz)**
 
-<img width="1079" height="769" alt="Screenshot 2026-07-20 at 12 26 27 AM" src="https://github.com/user-attachments/assets/a4079897-46ab-4f72-8138-e6c984c5edc7" />
+<img width="480" alt="口袋签证" src="https://github.com/user-attachments/assets/a4079897-46ab-4f72-8138-e6c984c5edc7" />
